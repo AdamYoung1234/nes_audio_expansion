@@ -1,0 +1,31 @@
+UNITS=MM
+#Layer_Color=16711935
+#
+#Feature symbol names
+#
+$0 r203.2
+$1 oval2203.20108x2203.196
+
+#
+#Feature attribute names
+#
+@0 .geometry
+@1 .pad_usage
+
+#
+#Feature attribute text strings
+#
+&0 Pad_Simple_X0.0000Y0.0000H1200.0001C2216.0001
+&1 Pad_Simple_X2000.0011Y1999.9960H1200.0001C2216.0001
+
+#
+#Layer features
+#
+P 65.913 87.249 1 P 0 0 ;0=1,1=0
+P 68.453 87.249 0 P 0 0 ;0=0,1=0
+P 70.993 87.249 0 P 0 0 ;0=0,1=0
+P 73.533 87.249 0 P 0 0 ;0=0,1=0
+P 76.073 87.249 0 P 0 0 ;0=0,1=0
+P 78.613 87.249 0 P 0 0 ;0=0,1=0
+P 81.153 87.249 0 P 0 0 ;0=0,1=0
+P 83.693 87.249 1 P 0 0 ;0=1,1=0
